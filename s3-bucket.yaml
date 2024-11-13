@@ -5,4 +5,4 @@ Resources:
   S3Bucket:
     Type: "AWS::S3::Bucket"
     Properties:
-      BucketName: MyBucketName001jl
+      BucketName: mybucketname001jl
